@@ -13,3 +13,5 @@ Some of the command files have been excluded for privacy reasons as this is more
 on the internet do not need to know my personal life. 
 
 If you are not a random person, feel free to leave a message or comment on some file
+
+In addition, node modules are excluded as well for the previous reasons stated
