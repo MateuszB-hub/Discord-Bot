@@ -14,4 +14,4 @@ on the internet do not need to know my personal life.
 
 If you are not a random person, feel free to leave a message or comment on some file
 
-In addition, node modules are excluded as well for the previous reasons stated
+In addition, node modules, config.json, package.json are excluded as well for the previous reasons stated
